@@ -1,4 +1,4 @@
-# Header only C++ tiny glTF library(loader/saver).
+# Header only C++ tiny glTF library(loader/saver) KHR_audio support patch.
 
 `TinyGLTF` is a header only C++11 glTF 2.0 https://github.com/KhronosGroup/glTF library.
 
